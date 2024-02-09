@@ -34,5 +34,5 @@ The Autotyping App is a simple Python application built using Tkinter and PyAuto
 
 
 ## Download
-- [Executable (.exe)](link_to_autotyping_app.exe)
-- [Source Code](link_to_repository)
+- [Executable (.exe)](https://github.com/mjafory/AutoType/raw/master/main.exe)
+- [Source Code](https://github.com/mjafory/AutoType/blob/master/main.py)

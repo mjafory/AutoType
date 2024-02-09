@@ -9,6 +9,7 @@ import os
 import sys
 import pyautogui
 
+
 pyautogui.FAILSAFE = False  # Disable PyAutoGUI fail-safe
 autotype_flag = False  # Flag to control autotyping loop
 pause_flag = False  # Flag to control autotyping pause
@@ -142,7 +143,7 @@ root.resizable(width=False, height=False)
 
 
 # Add Logo to Title Bar
-logo_path = resource_path("logo.PNG")  # Replace with the path to your logo image
+logo_path = resource_path("logo.PNG")
 logo = tk.PhotoImage(file=logo_path)
 root.iconphoto(True, logo)
 
